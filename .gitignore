@@ -398,3 +398,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+demo-branching/.idea/.idea.demo-branching/.idea/
