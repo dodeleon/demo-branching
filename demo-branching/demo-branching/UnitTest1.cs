@@ -11,7 +11,9 @@ public class UnitTest1
     [Fact]
     public void FalseIsFalseAndStringIsEmpty()
     {
+        // This was stupid
         Assert.False(!true);
+        Assert.True(!false);
         Assert.Empty("");
     }
 }
